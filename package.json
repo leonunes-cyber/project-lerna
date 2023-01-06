@@ -18,7 +18,7 @@
     "registry": "https://registry.npmjs.org/"
   },
   "scripts": {
-    "tsc": "tsc",
+    "tsc": "lerna run tsc",
     "publish": "lerna run tsc && lerna publish --no-private -y"
   }
 }

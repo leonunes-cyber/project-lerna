@@ -1,4 +1,4 @@
 import * as React from "react";
-import { Div } from "./HelloWorld.styles";
+import { Main } from './HelloWorld.styles'
 
-export const HelloWorld = () => <Div>HelloWorld</Div>;
+export const HelloWorld = () => <Main>HelloWorld</Main>;

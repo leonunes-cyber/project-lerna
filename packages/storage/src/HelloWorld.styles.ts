@@ -1,7 +1,6 @@
 import styled from 'styled-components'
 
-export const Div = styled.div`
+export const Main = styled.main`
     color: red;
     font-weight: bold;
-    font-size: 2rem;
 `
