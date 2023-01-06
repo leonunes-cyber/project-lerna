@@ -24,7 +24,8 @@
   "license": "MIT",
   "dependencies": {
     "react": "^18.2.0",
-    "styled-components": "^5.3.6"
+    "styled-components": "^5.3.6",
+    "tslib": "^2.4.1"
   },
   "devDependencies": {
     "@types/react": "^18.0.26",
