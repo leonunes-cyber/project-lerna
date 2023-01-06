@@ -1,5 +1,5 @@
 {
-  "name": "@cyber_leo/storage",
+  "name": "@cyber/storage",
   "version": "1.0.5",
   "description": "",
   "private": false,
@@ -28,5 +28,5 @@
     "@types/react": "^18.0.26",
     "typescript": "^4.5.5"
   },
-  "gitHead": "0dd3649f3c6a685c0cf4b660a0ab7f7aa6d99236"
+  "gitHead": "257899d3500ac0263517105d74af72ce73833b56"
 }
