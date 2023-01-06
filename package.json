@@ -15,6 +15,6 @@
   },
   "scripts": {
     "tsc": "tsc",
-    "publish": "lerna run tsc && lerna publish"
+    "publish": "lerna run tsc && lerna publish -y"
   }
 }
