@@ -13,8 +13,12 @@
     "lib": "lib",
     "test": "__tests__"
   },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
   "scripts": {
     "tsc": "tsc",
-    "publish": "lerna run tsc && lerna publish -y"
+    "publish": "lerna run tsc && lerna publish --no-private -y"
   }
 }

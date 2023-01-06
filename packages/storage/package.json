@@ -17,6 +17,10 @@
   ],
   "keywords": [],
   "author": "",
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
   "license": "MIT",
   "dependencies": {
     "aws-sdk": "^2.1077.0",
@@ -28,5 +32,5 @@
     "@types/react": "^18.0.26",
     "typescript": "^4.5.5"
   },
-  "gitHead": "3d0037404e4364e8b5079c903532da1f3eff7cd5"
+  "gitHead": "70bbb29099487dc021a4b333b1c928a4d40bf7bc"
 }
